@@ -1,6 +1,8 @@
 # Website-Ranking-using-Keyword-Extraction-PageRank
 Done as a part of course project (group of 2) for CS 257.
 
+View architecture in this [blog post](https://chinmayih.wordpress.com/2023/12/31/from-scraps-to-rankings-decoding-the-news-web/).
+
 ## Software and Version
 - Python: 3.10.8
 - MongoDB: 6.0 
